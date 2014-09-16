@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"LESS",
+		"MarkdownEditing",
+		"ScalaFormat",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Soda"
+	]
+}
